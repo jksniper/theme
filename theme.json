@@ -12,7 +12,7 @@
     "color": "#191D21",
     "icon" : "",
     "night": 1,
-    "ver"  : "0"
+    "ver"  : "1"
   },
   {
     "tid": 2,
@@ -26,14 +26,14 @@
     "name" : "3",
     "color": "#F3EEE8",
     "icon" : "",
-    "ver"  : "0"
+    "ver"  : "1"
   },
   {
     "tid": 4,
     "name" : "4",
     "color": "#DAE5EB",
     "icon" : "",
-    "ver"  : "1"
+    "ver"  : "2"
   },
   {
     "tid": 5,
