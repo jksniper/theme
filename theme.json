@@ -1,59 +1,89 @@
 [
+
   {
-    "tid": 0,
-    "name" : "0",
-    "color": "#FAFBFC",
-    "icon" : "",
-    "ver"  : "0" 
+
+    "themeId": 0,
+
+    "themeName": "theme0-debug-androidTest",
+
+    "bgColor": "#FAFBFC",
+
+    "bgUrl": ""
+
   },
+
   {
-    "tid": 1,
-    "name" : "1",
-    "color": "#191D21",
-    "icon" : "",
-    "night": 1,
-    "ver"  : "1"
+
+    "themeId": 1,
+
+    "themeName": "theme1-debug-androidTest",
+
+    "bgColor": "#191D21",
+
+    "bgUrl": "",
+
+    "isNight": true
+
   },
+
   {
-    "tid": 2,
-    "name" : "2",
-    "color": "#AABBAC",
-    "icon" : "https://s2.loli.net/2024/08/23/Sh1J97nbgfpoxQT.jpg",
-    "ver"  : "0"
+
+    "themeId": 3,
+
+    "themeName": "theme3-debug-androidTest",
+
+    "bgColor": "#F3EEE8",
+
+    "bgUrl": ""
+
   },
+
   {
-    "tid": 3,
-    "name" : "3",
-    "color": "#F3EEE8",
-    "icon" : "",
-    "ver"  : "1"
+
+    "themeId": 4,
+
+    "themeName": "theme4-debug-androidTest",
+
+    "bgColor": "#DAE5EB",
+
+    "bgUrl": ""
+
   },
+
   {
-    "tid": 4,
-    "name" : "4",
-    "color": "#DAE5EB",
-    "icon" : "",
-    "ver"  : "2"
+
+    "themeId": 5,
+
+    "themeName": "theme8-debug-androidTest",
+
+    "bgColor": "#DACFD1",
+
+    "bgUrl": "https://resourcecp-cdn.gongzicp.com/files/theme/theme8-debug-androidTest.jpg"
+
   },
+
   {
-    "tid": 5,
-    "name" : "5",
-    "color": "#DACFD1",
-    "icon" : "",
-    "ver"  : "0"
+
+    "themeId": 6,
+
+    "themeName": "theme6-debug-androidTest",
+
+    "bgColor": "#CBC9D3",
+
+    "bgUrl": ""
+
   },
+
   {
-    "tid": 6,
-    "name" : "6",
-    "color": "#CBC9D3",
-    "icon" : "",
-    "ver"  : "0"
-  },
-  {
-    "tid": 7,
-    "name" : "7",
-    "color": "#5A5A5C",
-    "icon" : "",
-    "ver"  : "0"
+
+    "themeId": 7,
+
+    "themeName": "theme9-debug-androidTest",
+
+    "bgColor": "#5A5A5C",
+
+    "bgUrl": ""
+
   }
+
 ]
