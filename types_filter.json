@@ -1,5 +1,5 @@
 {
-  "code": 1,
+  "code": 200,
   "msg": "操作成功 code:200",
   "data": {
     "type": {
@@ -668,7 +668,7 @@
     "sort": [
       {
         "name": "综合",
-	"showname":"综合",
+        "alias": "进度",
         "value": 8,
         "select": true
       },
@@ -686,7 +686,7 @@
     "process": [
       {
         "name": "全部",
-	"showname":"进度",
+        "alias": "进度",
         "value": -1,
         "select": true
       },
@@ -704,7 +704,7 @@
     "sell": [
       {
         "name": "全部",
-	"showname":"VIP",
+        "alias": "属性",
         "value": -1,
         "select": true
       },
@@ -722,7 +722,7 @@
     "word_number_range": [
       {
         "name": "全部",
-	"showname":"字数",
+        "alias": "字数",
         "value": -1,
         "select": true
       },
