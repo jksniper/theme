@@ -1,770 +1,757 @@
 {
-    "code": 1,
-    "msg": "操作成功 code:200",
-    "data": {
-        "type": {
-            "0": [
-                {
-                    "name": "百合",
-                    "type_id": 17,
-                    "select": false
-                },
-                {
-                    "name": "原创",
-                    "type_id": 73,
-                    "select": false
-                },
-                {
-                    "name": "言情",
-                    "type_id": 74,
-                    "select": false
-                },
-                {
-                    "name": "纯爱",
-                    "type_id": 75,
-                    "select": false
-                },
-                {
-                    "name": "百年风华",
-                    "type_id": 159,
-                    "select": false
-                },
-                {
-                    "name": "有声",
-                    "type_id": 211,
-                    "select": false
-                },
-                {
-                    "name": "五周年",
-                    "type_id": 217,
-                    "select": false
-                }
-            ],
-            "1": [
-                {
-                    "name": "全部",
-                    "type_id": -1,
-                    "select": true
-                },
-                {
-                    "name": "青春",
-                    "type_id": 2,
-                    "select": false
-                },
-                {
-                    "name": "都市",
-                    "type_id": 14,
-                    "select": false
-                },
-                {
-                    "name": "民国",
-                    "type_id": 19,
-                    "select": false
-                },
-                {
-                    "name": "综合",
-                    "type_id": 20,
-                    "select": false
-                }
-            ],
-            "3": [
-                {
-                    "name": "全部",
-                    "type_id": -1,
-                    "select": true
-                },
-                {
-                    "name": "宫廷",
-                    "type_id": 21,
-                    "select": false
-                },
-                {
-                    "name": "武侠",
-                    "type_id": 22,
-                    "select": false
-                },
-                {
-                    "name": "田园",
-                    "type_id": 24,
-                    "select": false
-                },
-                {
-                    "name": "综合",
-                    "type_id": 32,
-                    "select": false
-                },
-                {
-                    "name": "历史",
-                    "type_id": 44,
-                    "select": false
-                },
-                {
-                    "name": "江湖",
-                    "type_id": 121,
-                    "select": false
-                }
-            ],
-            "4": [
-                {
-                    "name": "全部",
-                    "type_id": -1,
-                    "select": true
-                },
-                {
-                    "name": "玄幻",
-                    "type_id": 10,
-                    "select": false
-                },
-                {
-                    "name": "奇幻",
-                    "type_id": 11,
-                    "select": false
-                },
-                {
-                    "name": "科幻",
-                    "type_id": 25,
-                    "select": false
-                },
-                {
-                    "name": "综合",
-                    "type_id": 39,
-                    "select": false
-                }
-            ],
-            "6": [
-                {
-                    "name": "全部",
-                    "type_id": -1,
-                    "select": true
-                },
-                {
-                    "name": "灵异",
-                    "type_id": 12,
-                    "select": false
-                },
-                {
-                    "name": "综合",
-                    "type_id": 13,
-                    "select": false
-                },
-                {
-                    "name": "推理",
-                    "type_id": 47,
-                    "select": false
-                },
-                {
-                    "name": "惊悚",
-                    "type_id": 128,
-                    "select": false
-                }
-            ],
-            "17": [
-                {
-                    "name": "全部",
-                    "type_id": -1,
-                    "select": true
-                },
-                {
-                    "name": "综合",
-                    "type_id": 122,
-                    "select": false
-                },
-                {
-                    "name": "现代",
-                    "type_id": 123,
-                    "select": false
-                },
-                {
-                    "name": "古代",
-                    "type_id": 124,
-                    "select": false
-                },
-                {
-                    "name": "架空",
-                    "type_id": 125,
-                    "select": false
-                },
-                {
-                    "name": "幻想",
-                    "type_id": 126,
-                    "select": false
-                },
-                {
-                    "name": "悬疑",
-                    "type_id": 127,
-                    "select": false
-                },
-                {
-                    "name": "短佩",
-                    "type_id": 218,
-                    "select": false
-                }
-            ],
-            "54": [
-                {
-                    "name": "全部",
-                    "type_id": -1,
-                    "select": true
-                },
-                {
-                    "name": "国产",
-                    "type_id": 82,
-                    "select": false
-                },
-                {
-                    "name": "欧美",
-                    "type_id": 83,
-                    "select": false
-                },
-                {
-                    "name": "日韩",
-                    "type_id": 84,
-                    "select": false
-                },
-                {
-                    "name": "综漫",
-                    "type_id": 118,
-                    "select": false
-                }
-            ],
-            "55": [
-                {
-                    "name": "全部",
-                    "type_id": -1,
-                    "select": true
-                },
-                {
-                    "name": "国产",
-                    "type_id": 86,
-                    "select": false
-                },
-                {
-                    "name": "欧美",
-                    "type_id": 87,
-                    "select": false
-                },
-                {
-                    "name": "日韩",
-                    "type_id": 88,
-                    "select": false
-                },
-                {
-                    "name": "泰剧",
-                    "type_id": 119,
-                    "select": false
-                }
-            ],
-            "56": [
-                {
-                    "name": "全部",
-                    "type_id": -1,
-                    "select": true
-                },
-                {
-                    "name": "国产",
-                    "type_id": 89,
-                    "select": false
-                },
-                {
-                    "name": "欧美",
-                    "type_id": 90,
-                    "select": false
-                },
-                {
-                    "name": "日韩",
-                    "type_id": 91,
-                    "select": false
-                }
-            ],
-            "57": [
-                {
-                    "name": "全部",
-                    "type_id": -1,
-                    "select": true
-                },
-                {
-                    "name": "文学",
-                    "type_id": 95,
-                    "select": false
-                }
-            ],
-            "58": [
-                {
-                    "name": "全部",
-                    "type_id": -1,
-                    "select": true
-                },
-                {
-                    "name": "国产",
-                    "type_id": 92,
-                    "select": false
-                },
-                {
-                    "name": "欧美",
-                    "type_id": 93,
-                    "select": false
-                },
-                {
-                    "name": "日韩",
-                    "type_id": 94,
-                    "select": false
-                }
-            ],
-            "62": [
-                {
-                    "name": "全部",
-                    "type_id": -1,
-                    "select": true
-                },
-                {
-                    "name": "其他",
-                    "type_id": 85,
-                    "select": false
-                }
-            ],
-            "66": [
-                {
-                    "name": "全部",
-                    "type_id": -1,
-                    "select": true
-                },
-                {
-                    "name": "小说",
-                    "type_id": 67,
-                    "select": false
-                },
-                {
-                    "name": "大纲",
-                    "type_id": 68,
-                    "select": false
-                },
-                {
-                    "name": "脑洞",
-                    "type_id": 69,
-                    "select": false
-                },
-                {
-                    "name": "随笔",
-                    "type_id": 71,
-                    "select": false
-                },
-                {
-                    "name": "综合",
-                    "type_id": 72,
-                    "select": false
-                }
-            ],
-            "73": [
-                {
-                    "name": "全部",
-                    "type_id": -1,
-                    "select": true
-                },
-                {
-                    "name": "古代",
-                    "type_id": 186,
-                    "select": false
-                },
-                {
-                    "name": "现代",
-                    "type_id": 187,
-                    "select": false
-                },
-                {
-                    "name": "幻想",
-                    "type_id": 188,
-                    "select": false
-                },
-                {
-                    "name": "悬疑",
-                    "type_id": 189,
-                    "select": false
-                },
-                {
-                    "name": "短佩",
-                    "type_id": 190,
-                    "select": false
-                },
-                {
-                    "name": "架空",
-                    "type_id": 191,
-                    "select": false
-                }
-            ],
-            "74": [
-                {
-                    "name": "全部",
-                    "type_id": -1,
-                    "select": true
-                },
-                {
-                    "name": "古代",
-                    "type_id": 96,
-                    "select": false
-                },
-                {
-                    "name": "现代",
-                    "type_id": 97,
-                    "select": false
-                },
-                {
-                    "name": "悬疑",
-                    "type_id": 99,
-                    "select": false
-                },
-                {
-                    "name": "幻想",
-                    "type_id": 100,
-                    "select": false
-                },
-                {
-                    "name": "综合111",
-                    "type_id": 161,
-                    "select": false
-                },
-                {
-                    "name": "短佩",
-                    "type_id": 219,
-                    "select": false
-                }
-            ],
-            "75": [
-                {
-                    "name": "全部",
-                    "type_id": -1,
-                    "select": true
-                },
-                {
-                    "name": "现代",
-                    "type_id": 1,
-                    "select": false
-                },
-                {
-                    "name": "古代",
-                    "type_id": 3,
-                    "select": false
-                },
-                {
-                    "name": "幻想",
-                    "type_id": 4,
-                    "select": false
-                },
-                {
-                    "name": "悬疑",
-                    "type_id": 6,
-                    "select": false
-                },
-                {
-                    "name": "架空",
-                    "type_id": 9,
-                    "select": false
-                },
-                {
-                    "name": "短佩",
-                    "type_id": 66,
-                    "select": false
-                }
-            ],
-            "76": [
-                {
-                    "name": "全部",
-                    "type_id": -1,
-                    "select": true
-                },
-                {
-                    "name": "动漫",
-                    "type_id": 54,
-                    "select": false
-                },
-                {
-                    "name": "影视",
-                    "type_id": 55,
-                    "select": false
-                },
-                {
-                    "name": "游戏",
-                    "type_id": 56,
-                    "select": false
-                },
-                {
-                    "name": "文学",
-                    "type_id": 57,
-                    "select": false
-                },
-                {
-                    "name": "RPS",
-                    "type_id": 58,
-                    "select": false
-                },
-                {
-                    "name": "其他",
-                    "type_id": 62,
-                    "select": false
-                },
-                {
-                    "name": "综合",
-                    "type_id": 70,
-                    "select": false
-                },
-                {
-                    "name": "历史",
-                    "type_id": 120,
-                    "select": false
-                }
-            ],
-            "96": [
-                {
-                    "name": "全部",
-                    "type_id": -1,
-                    "select": true
-                },
-                {
-                    "name": "穿越",
-                    "type_id": 102,
-                    "select": false
-                },
-                {
-                    "name": "宅斗",
-                    "type_id": 103,
-                    "select": false
-                },
-                {
-                    "name": "田园",
-                    "type_id": 104,
-                    "select": false
-                },
-                {
-                    "name": "宫廷",
-                    "type_id": 105,
-                    "select": false
-                },
-                {
-                    "name": "武侠",
-                    "type_id": 111,
-                    "select": false
-                },
-                {
-                    "name": "历史",
-                    "type_id": 132,
-                    "select": false
-                },
-                {
-                    "name": "江湖",
-                    "type_id": 133,
-                    "select": false
-                },
-                {
-                    "name": "综合",
-                    "type_id": 134,
-                    "select": false
-                }
-            ],
-            "97": [
-                {
-                    "name": "全部",
-                    "type_id": -1,
-                    "select": true
-                },
-                {
-                    "name": "都市",
-                    "type_id": 106,
-                    "select": false
-                },
-                {
-                    "name": "青春",
-                    "type_id": 107,
-                    "select": false
-                },
-                {
-                    "name": "综合",
-                    "type_id": 130,
-                    "select": false
-                },
-                {
-                    "name": "民国",
-                    "type_id": 131,
-                    "select": false
-                }
-            ],
-            "99": [
-                {
-                    "name": "全部",
-                    "type_id": -1,
-                    "select": true
-                },
-                {
-                    "name": "推理",
-                    "type_id": 112,
-                    "select": false
-                },
-                {
-                    "name": "惊悚",
-                    "type_id": 113,
-                    "select": false
-                },
-                {
-                    "name": "综合",
-                    "type_id": 137,
-                    "select": false
-                },
-                {
-                    "name": "灵异",
-                    "type_id": 138,
-                    "select": false
-                }
-            ],
-            "100": [
-                {
-                    "name": "全部",
-                    "type_id": -1,
-                    "select": true
-                },
-                {
-                    "name": "玄幻",
-                    "type_id": 110,
-                    "select": false
-                },
-                {
-                    "name": "科幻",
-                    "type_id": 114,
-                    "select": false
-                },
-                {
-                    "name": "综合",
-                    "type_id": 135,
-                    "select": false
-                },
-                {
-                    "name": "奇幻",
-                    "type_id": 136,
-                    "select": false
-                }
-            ],
-            "141": [
-                {
-                    "name": "全部",
-                    "type_id": -1,
-                    "select": true
-                },
-                {
-                    "name": "dsad",
-                    "type_id": 154,
-                    "select": false
-                }
-            ],
-            "154": [
-                {
-                    "name": "全部",
-                    "type_id": -1,
-                    "select": true
-                },
-                {
-                    "name": "三级页面2",
-                    "type_id": 155,
-                    "select": false
-                }
-            ]
-        },
-        "sort": {
-            "defalut":"综合",
-            "list":[
-                {
-                    "name": "综合",
-                    "value": 8,
-                    "select": true
-                },
-                {
-                    "name": "最新",
-                    "value": 4,
-                    "select": false
-                },
-                {
-                    "name": "热门",
-                    "value": 7,
-                    "select": false
-                }
-            ]
-        },
-        "process":
+  "code": 1,
+  "msg": "操作成功 code:200",
+  "data": {
+    "type": {
+      "0": [
         {
-            "defalut":"进度",
-            "list":[
-                {
-                    "name": "全部",
-                    "value": -1,
-                    "select": true
-                },
-                {
-                    "name": "连载",
-                    "value": 1,
-                    "select": false
-                },
-                {
-                    "name": "完结",
-                    "value": 2,
-                    "select": false
-                }
-            ]
+          "name": "百合",
+          "type_id": 17,
+          "select": false
         },
-        "sell": {
-            "defalut":"VIP",
-            "list":[
-                {
-                    "name": "全部",
-                    "value": -1,
-                    "select": true
-                },
-                {
-                    "name": "免费",
-                    "value": 0,
-                    "select": false
-                },
-                {
-                    "name": "付费",
-                    "value": 1,
-                    "select": false
-                }
-            ]
+        {
+          "name": "原创",
+          "type_id": 73,
+          "select": false
         },
-        "word_number_range": {
-            "defalut":"字数",
-            "list":[
-                {
-                    "name": "全部",
-                    "value": -1,
-                    "select": true
-                },
-                {
-                    "name": "7万字以下",
-                    "value": 1,
-                    "select": false
-                },
-                {
-                    "name": "7-15万字",
-                    "value": 2,
-                    "select": false
-                },
-                {
-                    "name": "15-25万字",
-                    "value": 3,
-                    "select": false
-                },
-                {
-                    "name": "25-40万字",
-                    "value": 4,
-                    "select": false
-                },
-                {
-                    "name": "40-60万字",
-                    "value": 5,
-                    "select": false
-                },
-                {
-                    "name": "60万字以上",
-                    "value": 6,
-                    "select": false
-                }
-            ]
+        {
+          "name": "言情",
+          "type_id": 74,
+          "select": false
+        },
+        {
+          "name": "纯爱",
+          "type_id": 75,
+          "select": false
+        },
+        {
+          "name": "百年风华",
+          "type_id": 159,
+          "select": false
+        },
+        {
+          "name": "有声",
+          "type_id": 211,
+          "select": false
+        },
+        {
+          "name": "五周年",
+          "type_id": 217,
+          "select": false
         }
-    }
+      ],
+      "1": [
+        {
+          "name": "全部",
+          "type_id": -1,
+          "select": true
+        },
+        {
+          "name": "青春",
+          "type_id": 2,
+          "select": false
+        },
+        {
+          "name": "都市",
+          "type_id": 14,
+          "select": false
+        },
+        {
+          "name": "民国",
+          "type_id": 19,
+          "select": false
+        },
+        {
+          "name": "综合",
+          "type_id": 20,
+          "select": false
+        }
+      ],
+      "3": [
+        {
+          "name": "全部",
+          "type_id": -1,
+          "select": true
+        },
+        {
+          "name": "宫廷",
+          "type_id": 21,
+          "select": false
+        },
+        {
+          "name": "武侠",
+          "type_id": 22,
+          "select": false
+        },
+        {
+          "name": "田园",
+          "type_id": 24,
+          "select": false
+        },
+        {
+          "name": "综合",
+          "type_id": 32,
+          "select": false
+        },
+        {
+          "name": "历史",
+          "type_id": 44,
+          "select": false
+        },
+        {
+          "name": "江湖",
+          "type_id": 121,
+          "select": false
+        }
+      ],
+      "4": [
+        {
+          "name": "全部",
+          "type_id": -1,
+          "select": true
+        },
+        {
+          "name": "玄幻",
+          "type_id": 10,
+          "select": false
+        },
+        {
+          "name": "奇幻",
+          "type_id": 11,
+          "select": false
+        },
+        {
+          "name": "科幻",
+          "type_id": 25,
+          "select": false
+        },
+        {
+          "name": "综合",
+          "type_id": 39,
+          "select": false
+        }
+      ],
+      "6": [
+        {
+          "name": "全部",
+          "type_id": -1,
+          "select": true
+        },
+        {
+          "name": "灵异",
+          "type_id": 12,
+          "select": false
+        },
+        {
+          "name": "综合",
+          "type_id": 13,
+          "select": false
+        },
+        {
+          "name": "推理",
+          "type_id": 47,
+          "select": false
+        },
+        {
+          "name": "惊悚",
+          "type_id": 128,
+          "select": false
+        }
+      ],
+      "17": [
+        {
+          "name": "全部",
+          "type_id": -1,
+          "select": true
+        },
+        {
+          "name": "综合",
+          "type_id": 122,
+          "select": false
+        },
+        {
+          "name": "现代",
+          "type_id": 123,
+          "select": false
+        },
+        {
+          "name": "古代",
+          "type_id": 124,
+          "select": false
+        },
+        {
+          "name": "架空",
+          "type_id": 125,
+          "select": false
+        },
+        {
+          "name": "幻想",
+          "type_id": 126,
+          "select": false
+        },
+        {
+          "name": "悬疑",
+          "type_id": 127,
+          "select": false
+        },
+        {
+          "name": "短佩",
+          "type_id": 218,
+          "select": false
+        }
+      ],
+      "54": [
+        {
+          "name": "全部",
+          "type_id": -1,
+          "select": true
+        },
+        {
+          "name": "国产",
+          "type_id": 82,
+          "select": false
+        },
+        {
+          "name": "欧美",
+          "type_id": 83,
+          "select": false
+        },
+        {
+          "name": "日韩",
+          "type_id": 84,
+          "select": false
+        },
+        {
+          "name": "综漫",
+          "type_id": 118,
+          "select": false
+        }
+      ],
+      "55": [
+        {
+          "name": "全部",
+          "type_id": -1,
+          "select": true
+        },
+        {
+          "name": "国产",
+          "type_id": 86,
+          "select": false
+        },
+        {
+          "name": "欧美",
+          "type_id": 87,
+          "select": false
+        },
+        {
+          "name": "日韩",
+          "type_id": 88,
+          "select": false
+        },
+        {
+          "name": "泰剧",
+          "type_id": 119,
+          "select": false
+        }
+      ],
+      "56": [
+        {
+          "name": "全部",
+          "type_id": -1,
+          "select": true
+        },
+        {
+          "name": "国产",
+          "type_id": 89,
+          "select": false
+        },
+        {
+          "name": "欧美",
+          "type_id": 90,
+          "select": false
+        },
+        {
+          "name": "日韩",
+          "type_id": 91,
+          "select": false
+        }
+      ],
+      "57": [
+        {
+          "name": "全部",
+          "type_id": -1,
+          "select": true
+        },
+        {
+          "name": "文学",
+          "type_id": 95,
+          "select": false
+        }
+      ],
+      "58": [
+        {
+          "name": "全部",
+          "type_id": -1,
+          "select": true
+        },
+        {
+          "name": "国产",
+          "type_id": 92,
+          "select": false
+        },
+        {
+          "name": "欧美",
+          "type_id": 93,
+          "select": false
+        },
+        {
+          "name": "日韩",
+          "type_id": 94,
+          "select": false
+        }
+      ],
+      "62": [
+        {
+          "name": "全部",
+          "type_id": -1,
+          "select": true
+        },
+        {
+          "name": "其他",
+          "type_id": 85,
+          "select": false
+        }
+      ],
+      "66": [
+        {
+          "name": "全部",
+          "type_id": -1,
+          "select": true
+        },
+        {
+          "name": "小说",
+          "type_id": 67,
+          "select": false
+        },
+        {
+          "name": "大纲",
+          "type_id": 68,
+          "select": false
+        },
+        {
+          "name": "脑洞",
+          "type_id": 69,
+          "select": false
+        },
+        {
+          "name": "随笔",
+          "type_id": 71,
+          "select": false
+        },
+        {
+          "name": "综合",
+          "type_id": 72,
+          "select": false
+        }
+      ],
+      "73": [
+        {
+          "name": "全部",
+          "type_id": -1,
+          "select": true
+        },
+        {
+          "name": "古代",
+          "type_id": 186,
+          "select": false
+        },
+        {
+          "name": "现代",
+          "type_id": 187,
+          "select": false
+        },
+        {
+          "name": "幻想",
+          "type_id": 188,
+          "select": false
+        },
+        {
+          "name": "悬疑",
+          "type_id": 189,
+          "select": false
+        },
+        {
+          "name": "短佩",
+          "type_id": 190,
+          "select": false
+        },
+        {
+          "name": "架空",
+          "type_id": 191,
+          "select": false
+        }
+      ],
+      "74": [
+        {
+          "name": "全部",
+          "type_id": -1,
+          "select": true
+        },
+        {
+          "name": "古代",
+          "type_id": 96,
+          "select": false
+        },
+        {
+          "name": "现代",
+          "type_id": 97,
+          "select": false
+        },
+        {
+          "name": "悬疑",
+          "type_id": 99,
+          "select": false
+        },
+        {
+          "name": "幻想",
+          "type_id": 100,
+          "select": false
+        },
+        {
+          "name": "综合111",
+          "type_id": 161,
+          "select": false
+        },
+        {
+          "name": "短佩",
+          "type_id": 219,
+          "select": false
+        }
+      ],
+      "75": [
+        {
+          "name": "全部",
+          "type_id": -1,
+          "select": true
+        },
+        {
+          "name": "现代",
+          "type_id": 1,
+          "select": false
+        },
+        {
+          "name": "古代",
+          "type_id": 3,
+          "select": false
+        },
+        {
+          "name": "幻想",
+          "type_id": 4,
+          "select": false
+        },
+        {
+          "name": "悬疑",
+          "type_id": 6,
+          "select": false
+        },
+        {
+          "name": "架空",
+          "type_id": 9,
+          "select": false
+        },
+        {
+          "name": "短佩",
+          "type_id": 66,
+          "select": false
+        }
+      ],
+      "76": [
+        {
+          "name": "全部",
+          "type_id": -1,
+          "select": true
+        },
+        {
+          "name": "动漫",
+          "type_id": 54,
+          "select": false
+        },
+        {
+          "name": "影视",
+          "type_id": 55,
+          "select": false
+        },
+        {
+          "name": "游戏",
+          "type_id": 56,
+          "select": false
+        },
+        {
+          "name": "文学",
+          "type_id": 57,
+          "select": false
+        },
+        {
+          "name": "RPS",
+          "type_id": 58,
+          "select": false
+        },
+        {
+          "name": "其他",
+          "type_id": 62,
+          "select": false
+        },
+        {
+          "name": "综合",
+          "type_id": 70,
+          "select": false
+        },
+        {
+          "name": "历史",
+          "type_id": 120,
+          "select": false
+        }
+      ],
+      "96": [
+        {
+          "name": "全部",
+          "type_id": -1,
+          "select": true
+        },
+        {
+          "name": "穿越",
+          "type_id": 102,
+          "select": false
+        },
+        {
+          "name": "宅斗",
+          "type_id": 103,
+          "select": false
+        },
+        {
+          "name": "田园",
+          "type_id": 104,
+          "select": false
+        },
+        {
+          "name": "宫廷",
+          "type_id": 105,
+          "select": false
+        },
+        {
+          "name": "武侠",
+          "type_id": 111,
+          "select": false
+        },
+        {
+          "name": "历史",
+          "type_id": 132,
+          "select": false
+        },
+        {
+          "name": "江湖",
+          "type_id": 133,
+          "select": false
+        },
+        {
+          "name": "综合",
+          "type_id": 134,
+          "select": false
+        }
+      ],
+      "97": [
+        {
+          "name": "全部",
+          "type_id": -1,
+          "select": true
+        },
+        {
+          "name": "都市",
+          "type_id": 106,
+          "select": false
+        },
+        {
+          "name": "青春",
+          "type_id": 107,
+          "select": false
+        },
+        {
+          "name": "综合",
+          "type_id": 130,
+          "select": false
+        },
+        {
+          "name": "民国",
+          "type_id": 131,
+          "select": false
+        }
+      ],
+      "99": [
+        {
+          "name": "全部",
+          "type_id": -1,
+          "select": true
+        },
+        {
+          "name": "推理",
+          "type_id": 112,
+          "select": false
+        },
+        {
+          "name": "惊悚",
+          "type_id": 113,
+          "select": false
+        },
+        {
+          "name": "综合",
+          "type_id": 137,
+          "select": false
+        },
+        {
+          "name": "灵异",
+          "type_id": 138,
+          "select": false
+        }
+      ],
+      "100": [
+        {
+          "name": "全部",
+          "type_id": -1,
+          "select": true
+        },
+        {
+          "name": "玄幻",
+          "type_id": 110,
+          "select": false
+        },
+        {
+          "name": "科幻",
+          "type_id": 114,
+          "select": false
+        },
+        {
+          "name": "综合",
+          "type_id": 135,
+          "select": false
+        },
+        {
+          "name": "奇幻",
+          "type_id": 136,
+          "select": false
+        }
+      ],
+      "141": [
+        {
+          "name": "全部",
+          "type_id": -1,
+          "select": true
+        },
+        {
+          "name": "dsad",
+          "type_id": 154,
+          "select": false
+        }
+      ],
+      "154": [
+        {
+          "name": "全部",
+          "type_id": -1,
+          "select": true
+        },
+        {
+          "name": "三级页面2",
+          "type_id": 155,
+          "select": false
+        }
+      ]
+    },
+    "sort": [
+      {
+        "name": "综合",
+        "value": 8,
+        "select": true
+      },
+      {
+        "name": "最新",
+        "value": 4,
+        "select": false
+      },
+      {
+        "name": "热门",
+        "value": 7,
+        "select": false
+      }
+    ],
+    "process": [
+      {
+        "name": "全部",
+        "value": -1,
+        "select": true
+      },
+      {
+        "name": "连载",
+        "value": 1,
+        "select": false
+      },
+      {
+        "name": "完结",
+        "value": 2,
+        "select": false
+      }
+    ],
+    "sell": [
+      {
+        "name": "全部",
+        "value": -1,
+        "select": true
+      },
+      {
+        "name": "免费",
+        "value": 0,
+        "select": false
+      },
+      {
+        "name": "付费",
+        "value": 1,
+        "select": false
+      }
+    ],
+    "word_number_range": [
+      {
+        "name": "全部",
+        "value": -1,
+        "select": true
+      },
+      {
+        "name": "7万字以下",
+        "value": 1,
+        "select": false
+      },
+      {
+        "name": "7-15万字",
+        "value": 2,
+        "select": false
+      },
+      {
+        "name": "15-25万字",
+        "value": 3,
+        "select": false
+      },
+      {
+        "name": "25-40万字",
+        "value": 4,
+        "select": false
+      },
+      {
+        "name": "40-60万字",
+        "value": 5,
+        "select": false
+      },
+      {
+        "name": "60万字以上",
+        "value": 6,
+        "select": false
+      }
+    ]
+  }
 }
