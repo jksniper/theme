@@ -668,7 +668,7 @@
     "sort": [
       {
         "name": "综合",
-        "alias": "进度",
+        "alias": "综合",
         "value": 8,
         "select": true
       },
