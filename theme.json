@@ -25,7 +25,18 @@
     "isNight": true
 
   },
+  
+  {
 
+    "themeId": 2,
+
+    "themeName": "theme2-debug-androidTest",
+
+    "bgColor": "#AABBAC",
+
+    "bgUrl": "https://s2.loli.net/2024/08/23/Sh1J97nbgfpoxQT.jpg",
+
+  },
   {
 
     "themeId": 3,
